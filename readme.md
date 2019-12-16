@@ -35,7 +35,7 @@
   - **한글버전** https://wiki.qt.io/Qt_for_Beginners/ko
 
 - 다음 가이드로부터 `QT` 라이브러리의 사용법을 최대한 익힌다. `QT` 공식 가이드와 다른 사설 가이드도 참조한다. 
-https://www.tutorialspoint.com/cplusplus/index.htm
+
   - http://zetcode.com/gui/qt5/
 
   - 또 다른 가이드 참조자료 
