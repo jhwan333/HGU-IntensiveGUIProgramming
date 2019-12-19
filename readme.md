@@ -109,6 +109,36 @@
 
   - https://wikidocs.net/9112
 
+### Terminology 
+
+- **CLI** : Command Line Interface 의 약자로 텍스트 기반 인터페이스를 제공하는 프로그램을 뜻합니다. 
+
+  - CLI example 1 : ls command (**in MacOS/Linux**)
+
+    ![ls](https://i.stack.imgur.com/k4EBH.png)
+
+  - CLI example 2 : dir command (**in Windows**)
+
+    ![ls](https://www.howtogeek.com/wp-content/uploads/2018/08/x2018-08-24_13h00_06.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.kLK2Gv7WVE.png)
+
+- **GUI** : Graphical User Interface 의 약자로 그래픽 기반 인터페이스를 제공하는 프로그램을 뜻합니다. 
+
+  - GUI example 1 : 크롬
+
+    ![Chrome](https://3.bp.blogspot.com/-lDfFqYGd89I/W5O71BnBwGI/AAAAAAADPs4/m8eU2B5Qj_sV45_3A1AaqTsVHxsgZKRzQCK4BGAYYCw/s1600/%25EB%25B2%2584%25EC%25A0%2584%25ED%2599%2595%25EC%259D%25B8.gif)
+
+  - GUI example 2 : 카카오톡 
+
+    ![KakaoTalk](https://lamanus.kr/wp-content/uploads/2019/03/54-1.png)
+
+  - GUI example 3 : MS워드  
+
+    ![MS word](https://t1.daumcdn.net/cfile/tistory/2129644A55EB617002)
+
+  - GUI example 4 : 배틀그라운드 
+
+    ![PUBG](https://img2.quasarzone.co.kr/img/data/file/qf_pcgame/3718532858_lvtYO5VF_7836c9c32ecca545949f72bb8f47edf523f22e7a.jpeg)
+
 ## Rule
 
 - 장소 : NTH414
