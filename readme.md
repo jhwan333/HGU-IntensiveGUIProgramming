@@ -8,9 +8,9 @@
 
 - Week 2 : [Project 2](Project2/Project2.md)
 
-- Week 3 : [Project 3](Project3/Project3.md)
+- Week 3 : [Project 3 작성중](Project3/Project3.md)
 
-- Week 4 : [Project 4](Project4/Project4.md)
+- Week 4 : [Project 4 작성중](Project4/Project4.md)
 
 ## Helpful link
 
