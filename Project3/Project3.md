@@ -8,6 +8,6 @@
 
 - **[java]** 채팅 프로그램 : 중앙 서버 구조 
 
-  ![java-chat](java-chat.gif)
+  ![java-chat](java-chat2.gif)
 
 ### **[필수]** 다음과 같이 **GUI** 로 채팅할 수 있는 할 수 있는 프로그램을 만드시오.
