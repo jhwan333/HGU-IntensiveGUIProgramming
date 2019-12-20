@@ -12,6 +12,42 @@
 
 - Week 4 : [Project 4](Project4/Project4.md)
 
+## Helpful link
+
+- Java
+
+  - Java API : https://docs.oracle.com/javase/8/docs/api/
+
+  - Java Tutorial : https://wikidocs.net/9112
+
+  - Java Swing Tutorial : http://zetcode.com/tutorials/javaswingtutorial/
+
+  - Java Swing Tutorial : https://www.javatpoint.com/java-swing
+
+  - Java Swing Tutorial : https://www.javacodegeeks.com/swing-tutorials
+
+  - And.. **www.google.com** is the BEST helpful link.
+
+- C++
+
+  - C++ tutorial : https://modoocode.com/135
+
+  - C++ tutorial : https://www.tutorialspoint.com/cplusplus/index.htm
+
+  - QT Hello World https://www.bogotobogo.com/Qt/Qt5_TutorialHelloWorld.php
+
+  - QT for begineers : https://wiki.qt.io/Qt_for_Beginners
+
+  - QT unofficial tutorial : http://zetcode.com/gui/qt5/
+
+  - QT Reference : https://doc.qt.io/qt-5/reference-overview.html
+
+  - QT Documentation : https://doc.qt.io/
+
+  - QT official tutorial : https://doc.qt.io/qt-5/qtexamplesandtutorials.html
+
+  - And.. **www.google.com** is the BEST helpful link.
+
 ## Groundwork 
 
 ### C++
@@ -40,7 +76,7 @@
 
   - 또 다른 가이드 참조자료 
 
-    - `QT official` https://doc.qt.io/qt-5/qtexamplesandtutorials.html#all-examples
+    - `QT official` https://doc.qt.io/qt-5/qtexamplesandtutorials.html
 
     - `QT official` https://wiki.qt.io/Qt_for_Beginners
 
