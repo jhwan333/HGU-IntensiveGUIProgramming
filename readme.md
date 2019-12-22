@@ -4,13 +4,23 @@
 
 ## Contents
 
-- Week 1 : [Project 1](Project1/Project1.md)
+- Week 1 : [Project 1](Project1/Project1.md) (12월23일 ~ 12월30일)
 
-- Week 2 : [Project 2](Project2/Project2.md)
+- Week 2 : [Project 2](Project2/Project2.md) (12월31일 ~ `20년1월8일)
 
-- Week 3 : [Project 3](Project3/Project3.md)
+- Week 3 : [Project 3](Project3/Project3.md) (1월9일 ~ 1월15일)
 
-- Week 4 : [Project 4 작성중](Project4/Project4.md)
+- Week 4 : [Project 4 작성중](Project4/Project4.md) (1월16일 ~ 1월22일)
+
+## Rule
+
+- 장소 : **NTH414**
+
+- 시간 : `10:00 ~ 17:00`
+
+- 일정 : `12/23 ~ 1/23` (총 20일 - 주말, 12/24, 12/25, 1/1 제외)
+
+- 각 프로젝트의 마지막 날 그 동안 만든 것을 시연합니다. 
 
 ## Helpful link
 
@@ -174,11 +184,3 @@
   - GUI example 4 : 배틀그라운드 
 
     ![PUBG](https://img2.quasarzone.co.kr/img/data/file/qf_pcgame/3718532858_lvtYO5VF_7836c9c32ecca545949f72bb8f47edf523f22e7a.jpeg)
-
-## Rule
-
-- 장소 : NTH414
-
-- 시간 : 10:00
-
-- 일정 : 12/23 ~ 1/23 (총 20일 - 주말, 12/24, 12/25, 1/1 제외)
