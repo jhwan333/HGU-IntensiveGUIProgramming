@@ -10,7 +10,7 @@
 
 - Week 3 : [Project 3](Project3/Project3.md) (`1/9 ~ 1/15`)
 
-- Week 4 : [Project 4 작성중](Project4/Project4.md) (`1/16 ~ 1/22`)
+- Week 4 : [Project 4](Project4/Project4.md) (`1/16 ~ 1/22`)
 
 ## Rule
 
