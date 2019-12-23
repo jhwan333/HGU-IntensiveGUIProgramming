@@ -14,6 +14,8 @@
 
   - 틱택톡을 만들기 위해 사용된 주된 컴포넌트 : `Jbutton`
 
+  - 사용된 레이아웃 : `GridLayout`
+
   ![ttt1](ttt1.gif)
 
 - **[java]** 틱택톡 완성 예시 2
@@ -25,6 +27,12 @@
 - **[c++]** 틱택톡 완성 예시 3
 
   - 틱택톡을 만들기 위해 사용된 주된 컴포넌트 : `QToolButton`
+
+  - 텍스트를 입력 받기 위해 사용된 컴포넌트 : `QLineEdit`
+
+  - `Player 1 Name` 의 컴포넌트 : `QLabel`
+
+  - `Mode`, `Start`, `Reset` 버튼의 컴포넌트 : `QPushButton`
 
   ![ttt2](ttt2.gif)
 
