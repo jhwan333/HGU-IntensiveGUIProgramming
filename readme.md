@@ -8,26 +8,6 @@
 
 - Week 2 : [Project 2](Project2/Project2.md) (``12/31일 ~ `20/1/8``)
 
-  - `C++` 추천 예제 
-
-    - https://doc.qt.io/qt-5/qtwidgets-widgets-calculator-example.html
-
-    - https://doc.qt.io/qt-5/qtwidgets-widgets-groupbox-example.html
-
-    - https://doc.qt.io/qt-5/qtwidgets-widgets-tetrix-example.html
-
-    - https://doc.qt.io/qt-5/qtwidgets-widgets-windowflags-example.html
-
-    - _모든 예제는 여기(https://doc.qt.io/qt-5/examples-widgets.html)에 있습니다._
-
-  - `Java` 추천 예제 
-
-    - http://zetcode.com/tutorials/javaswingtutorial/basicswingcomponents/
-
-    - http://zetcode.com/tutorials/javaswingtutorial/basicswingcomponentsII/
-
-    - _모든 예제는 **Helpful link** 에서 찾을 수 있습니다._
-
 - Week 3 : [Project 3](Project3/Project3.md) (`1/9 ~ 1/15`)
 
 - Week 4 : [Project 4 작성중](Project4/Project4.md) (`1/16 ~ 1/22`)
