@@ -38,15 +38,11 @@
 
   - 사용된 레이아웃 : `GridLayout`
 
-  - 스켈레톤코드 : [TicTacToe.java](java_TicTacToe-Button/TicTacToe.java)
-
 - **[java]** 틱택톡 완성 예시 2
 
   ![ttt3](ttt3.gif)
 
   - 틱택톡을 만들기 위해 사용된 주된 컴포넌트 : `paintComponent`
-
-  - 스켈레톤코드 : [TicTacToe.java](java_TicTacToe-Paint/TicTacToe.java)
 
 - **[c++]** 틱택톡 완성 예시 3
 
@@ -59,8 +55,6 @@
   - `Player 1 Name` 의 컴포넌트 : `QLabel`
 
   - `Mode`, `Start`, `Reset` 버튼의 컴포넌트 : `QPushButton`
-
-  - 스켈레톤코드 : [c++_TicTacToe](c++_TicTacToe)
 
 ### **[선택]** : 그림판 GUI 
 
