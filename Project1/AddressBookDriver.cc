@@ -1,6 +1,4 @@
-#include <iostream>
-#include <cstring>
-#include <vector>
+// ...
 using namespace std;
 
 enum {ADD=1, MODIFY, REMOVE, LIST, EXIT};
@@ -13,21 +11,8 @@ class Person
 
 public:
     Person(string name, string phone, int age) 
-        : name(name), phone(phone), age(age)
-    {
-    }
-
-    void setPerson(string name, string phone, int age)
-    {
-        this->name = name;
-        this->phone = phone;
-        this->age = age;
-    }
-
-    void print() const
-    {
-        cout << name << "\t\t" << phone << "\t\t" << age << endl;
-    }
+        : name(name), phone(phone), age(age) {}
+    // ...
 };
 
 class AddressBook 

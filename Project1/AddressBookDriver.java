@@ -1,3 +1,4 @@
+// ...
 class Person 
 {
     String name;
@@ -10,11 +11,7 @@ class Person
         this.phone = phone;
         this.age = age;
     }
-
-    void print() 
-    {
-        System.out.println(this.name + "\t\t" + this.phone + "\t\t" + this.age);
-    }
+    // ...
 }
 
 class AddressBook 
