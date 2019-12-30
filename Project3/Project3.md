@@ -2,6 +2,21 @@
 
 ## 채팅 프로그램 
 
+### 기초지식
+
+#### 네트워크 기초지식
+
+- 네트워크 기초지식이 부족한 분들은 다음 블로그 글을 읽으며 네트워크 기초지식을 공부하시길 바랍니다. 
+
+  - https://recipes4dev.tistory.com/153
+
+#### 멀티스레드 기초지식
+
+- 멀티스레드 기초지식이 부족한 분들은 다음 블로그 글을 읽으며 기초지식을 공부하시길 바랍니다. 
+
+  - https://m.blog.naver.com/dd1587/221152592828
+
+
 ### **[필수]** **CLI** 로 채팅할 수 있는 할 수 있는 프로그램을 만드시오.
 
 - **[java]** `CLI` 채팅 프로그램 완성예시1
@@ -44,9 +59,9 @@
 
   - https://riptutorial.com/qt/example/29874/tcp-server
 
-- QT Netwrok Example
+- QT Network Example
 
-  - https://doc.qt.io/qt-5/examples-network.html
+  - https://doc.qt.io/qt-5/examples-network.html : 여기에 다양한 예제들이 있습니다. 
 
 #### Java
 
